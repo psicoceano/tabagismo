@@ -754,7 +754,10 @@ section.lazy-placeholder:after {
 .cid-s9X0IjZvnI {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1.jpeg");
+  background-image: url("../../../assets/images/old-couple-exercise-clipart-xl.png");
+}
+.cid-s9X0IjZvnI H3 {
+  color: #ffffff;
 }
 .cid-s9X3lKMzqV {
   background: linear-gradient(45deg, #55b4d4, #073b4c);
@@ -786,11 +789,11 @@ section.lazy-placeholder:after {
 }
 .cid-s9X9LstPLX {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-s9X5RbbHwX {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
